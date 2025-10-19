@@ -6,11 +6,6 @@
    <body>
       <header>   
       <h1>Votre Blog personnel</h1>
-      <nav>
-         <a href=”domain.tld/home”>Page d'accueil</a>
-         <a href=”domain.tld/blog”>Blog</a>
-         <a href=”domain.tld/about”>à propos</a>
-      </nav>
       </header>
       <main>
          <div class="row">
