@@ -1,20 +1,8 @@
-<html lang="fr">
-<head>
-  <meta charset="UTF-8">
- <strong>Site personnel de Rémy Valero</strong>
-   <hr>
-</head>
-<body>
-
-  <p><strong>Qui suis-je ?</strong> Pas du tout quelqu'un d'important. Je suis doctorant en histoire du droit. Je donne des cours en licence et en master depuis cinq ans.</p>
-
-  <hr>
-
-  <p>Ce site a pour objet de partager certaines ressources pertinentes aux étudiants en histoire du droit et, plus généralement, à toute personne intéressée.</p>
-
-  <hr>
-
-  <p>Vous pouvez me contacter par mail sur mon adresse universitaire : remy.valero@univ-lyon3.fr</p>
-
-</body>
-</html>
+# Rémy Valero
+Bienvenue sur mon site personnel. Je suis très content que vous soyez ici.
+## Qui suis-je ?
+Pas quelqu'un de très important. Je suis doctorant en histoire du droit et je donne des cours depuis cinq ans en licence et en master. Je suis né à Lyon et j'y vis toujours. Vous pouvez consulter mon profil LinkedIn [ ici](https://www.linkedin.com/in/r%C3%A9my-valero-7952a312b/).
+## À quoi sert ce site ?
+Pour le moment, à pas grand chose. J'ai beaucoup d'opinions sur beaucoup de sujets mais peu d'entre elles valent vraiment la peine d'être rédigées ou diffusées. Un jour, peut-être, j'aurais une idée vraiment bonne.
+## Contact
+remy.valero@univ-lyon3.fr
