@@ -1,9 +1,8 @@
-# remyvalero.github.io
 <html>
    <head>
       <meta charset="UTF-8">
       <title>Blog personnel</title>
-      </head> 
+      </head>
    <body>
       <header>   
       <h1>Votre Blog personnel</h1>
