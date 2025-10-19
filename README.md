@@ -6,7 +6,7 @@
 </head>
 <body>
 
-  <p><strong>Qui suis-je ?</strong> Pas du tout quelqu'un d'important. Je suis doctorant en histoire du droit à l'Université Jean Moulin Lyon 3. Je donne des cours en licence et en master depuis cinq ans.</p>
+  <p><strong>Qui suis-je ?</strong> Pas du tout quelqu'un d'important. Je suis doctorant en histoire du droit. Je donne des cours en licence et en master depuis cinq ans.</p>
 
   <hr>
 
