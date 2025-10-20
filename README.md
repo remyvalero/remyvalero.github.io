@@ -1,7 +1,7 @@
 # Rémy Valero
 Bienvenue sur mon site personnel. Je suis très content que vous soyez ici.
 #### Qui suis-je ?
-Pas quelqu'un de très important. Je suis doctorant en histoire du droit et je donne des cours depuis cinq ans en licence et en master. Je suis né à Lyon et j'y vis toujours. Vous pouvez consulter mon profil LinkedIn [ ici](https://www.linkedin.com/in/r%C3%A9my-valero-7952a312b/).
+Pas quelqu'un de très important. Je suis doctorant en histoire du droit et je donne des cours depuis cinq ans en licence et en master. J'ai enseigné entre autres l'histoire constitutionnelle française (de la fin du XVIIIe au début de la Troisième République), l'histoire des sources du droit, l'histoire du droit des biens... Je suis né à Lyon et j'y vis toujours. Vous pouvez consulter mon profil LinkedIn [ ici](https://www.linkedin.com/in/r%C3%A9my-valero-7952a312b/).
 #### À quoi sert ce site ?
 Pour le moment, à pas grand chose. J'ai beaucoup d'opinions sur beaucoup de sujets mais peu d'entre elles valent vraiment la peine d'être rédigées ou diffusées. Un jour, peut-être, j'aurais une idée vraiment bonne. En attendant, je me suis donné pour objectif de centraliser quelques outils de recherche. 
 ## Liens utiles
@@ -17,6 +17,13 @@ Dans une large mesure, la recherche numérique de sources et de renseignements e
 - [**Bibliographie numérique d'histoire du droit en langue française**](https://bibliographienumeriquedhistoiredudroit-ifg.univ-lorraine.fr/s/droit/page/welcome) — par Christian Dugas de La Boissonny, François Lormant et al. Toujours utile pour une première recherche bibliographique focalisée sur l'histoire du droit.
 ## Bibliographie
 Voici quelques indications bibliographiques qui n'ont absolument aucune visée exhaustive. Elles sont classées par ordre thématique. Je n'indique ici que que quelques-uns des livres que j'ai trouvés particulièrement utiles pour certaines de mes recherches.
+#### Droit international
+- KOSKENNIEMI (Martti), *The Gentle Civilizer of Nations. The Rise and Fall of International Law 1870-1960*, Cambridge University Press, 2004.
+- RYGIEL (Philippe), *L'ordre des circulations ? L'Institut de droit international et la régulation des migrations (1870-1920), Éditions de la Sorbonne, 2021.
+#### Droit international privé
+- ANCEL (Bertrand), *Éléments d'histoire du droit international privé*, Éditions Panthéon-Assas, 2017.
+- HALPÉRIN (Jean-Louis), *Entre nationalisme juridique et communauté de droit*, PUF, 1999.
+- WATSON (Alan), *Joseph Story and the Comity of Errors. A Case Study in Conflict of Laws*, University of Georgia Press, 1992.
 #### Génocide
 - Bachman (Jeffrey), *The Politics of Genocide. From the Genocide Convention to the Responsibility to Protect*, Rutgers University Press, 2022.
 - Dirk Moses (Anthony), *The Problems of Genocide. Permanent Security and the Language of Transgression*, Cambridge University Pres, 2021.
