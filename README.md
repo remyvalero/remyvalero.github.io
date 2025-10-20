@@ -3,7 +3,16 @@ Bienvenue sur mon site personnel. Je suis très content que vous soyez ici.
 #### Qui suis-je ?
 Pas quelqu'un de très important. Je suis doctorant en histoire du droit et je donne des cours depuis cinq ans en licence et en master. J'ai enseigné entre autres l'histoire constitutionnelle française (de la fin du XVIIIe au début de la Troisième République), l'histoire des sources du droit, l'histoire du droit des biens... Je suis né à Lyon et j'y vis toujours. Vous pouvez consulter mon profil LinkedIn [ ici](https://www.linkedin.com/in/r%C3%A9my-valero-7952a312b/).
 #### À quoi sert ce site ?
-Pour le moment, à pas grand chose. J'ai beaucoup d'opinions sur beaucoup de sujets mais peu d'entre elles valent vraiment la peine d'être rédigées ou diffusées. Un jour, peut-être, j'aurais une idée vraiment bonne. En attendant, je me suis donné pour objectif de centraliser quelques outils de recherche. 
+Pour le moment, à pas grand chose. J'ai beaucoup d'opinions sur beaucoup de sujets mais peu d'entre elles valent vraiment la peine d'être rédigées ou diffusées. Un jour, peut-être, j'aurais une idée vraiment bonne. En attendant, je me suis donné pour objectif de centraliser quelques outils de recherche.
+### Sommaire du site
+>#### [Liens utiles](#liens-utiles)
+>#### [Bibliographie](#bibliographie)
+>[Droit international](#droit-international)  
+>[Droit international privé](#droit-international-privé)  
+>[Génocide](#génocide)  
+>[Histoire du droit des biens](#histoire-du-droit-des-biens)  
+>[Libéralisme](#libéralisme)
+>#### [Contact](#contact)
 ## Liens utiles
 Dans une large mesure, la recherche numérique de sources et de renseignements en histoire du droit pour la période contemporaine (je ne m'exprime pas pour le reste) tient à la "tambouille" dans l'utilisation des moteurs de recherche. Il existe cependant des liens utiles qui permettent de gagner énormément de temps et d'approfondir de très nombreux détails. Je passe ici sur les plateformes généralistes qui sont bien entendu indispensables, notamment [Gallica](https://gallica.bnf.fr/accueil/fr/html/accueil-fr), [Retronews](https://www.retronews.fr/) (s'abonner ou utiliser un accès d'une bibliothèque), [Google Books](https://books.google.com/).
 - [**ledroitcriminel.fr**](https://ledroitcriminel.fr/) — Portail de droit criminel par Jean-Paul Doucet. Je l'utilise surtout pour les deux versions du Code pénal napoléonien (une version en 1810, l'autre en 1929). La recherche est facile à l'aide du CTRL+F. Mais on trouve tout particulièrement sur [cette page](https://ledroitcriminel.fr/la_legislation_criminelle/anciens_textes.htm) d'autres textes en format très simple. Cela permet d'éviter de rechercher dans des codes sur Gallica en étant soumis à leur outil d'OCR parfois bancal, et dans tous les cas beaucoup plus lourd qu'un simple CTRL+F. Dans la même veine, j'utilise Wikisource pour le [Code civil de 1804](https://fr.wikisource.org/wiki/Code_civil_des_Fran%C3%A7ais_1804/Texte_entier).
@@ -28,8 +37,8 @@ Voici quelques indications bibliographiques qui n'ont absolument aucune visée e
 - Bachman (Jeffrey), *The Politics of Genocide. From the Genocide Convention to the Responsibility to Protect*, Rutgers University Press, 2022.
 - Dirk Moses (Anthony), *The Problems of Genocide. Permanent Security and the Language of Transgression*, Cambridge University Pres, 2021.
 - Irvin-Erickson (Douglas), *Raphaël Lemkin and the Concept of Genocide*, University of Pennsylvania Press, 2017
-#### Histoire du droit privé, cours de M1
-Cette liste concerne spécialement mes étudiants et anciens étudiants du cours d'histoire du droit privé (droit des biens).
+#### Histoire du droit des biens
+Cette liste concerne spécialement mes étudiants et anciens étudiants du cours d'histoire du droit privé (droit des biens). Il s'agit d'une bibliographie indicative.
 - CASTALDO (André) et LÉVY (Jean-Philippe), *Histoire du droit civil*, Dalloz, 2010 (2ème éd.)
 - CASTALDO (André), "Les 'questions ridicules'. La nature juridique des esclaves de culture aux Antilles", *Droits*, 2011, 53/1, p. [67-178](https://droit.cairn.info/revue-droits-2011-1-page-67?lang=fr).
 - DEROUSSIN (David), *Histoire du droit privé*, Ellipses, 2018 (2ème éd.).
