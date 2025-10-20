@@ -21,6 +21,14 @@ Voici quelques indications bibliographiques qui n'ont absolument aucune visée e
 - Bachman (Jeffrey), *The Politics of Genocide. From the Genocide Convention to the Responsibility to Protect*, Rutgers University Press, 2022.
 - Dirk Moses (Anthony), *The Problems of Genocide. Permanent Security and the Language of Transgression*, Cambridge University Pres, 2021.
 - Irvin-Erickson (Douglas), *Raphaël Lemkin and the Concept of Genocide*, University of Pennsylvania Press, 2017
+#### Histoire du droit privé, cours de M1
+Cette liste concerne spécialement mes étudiants et anciens étudiants du cours d'histoire du droit privé (droit des biens).
+- CASTALDO (André) et LÉVY (Jean-Philippe), *Histoire du droit civil*, Dalloz, 2010 (2ème éd.)
+- CASTALDO (André), "Les 'questions ridicules'. La nature juridique des esclaves de culture aux Antilles", *Droits*, 2011, 53/1, p. [67-178](https://droit.cairn.info/revue-droits-2011-1-page-67?lang=fr).
+- DEROUSSIN (David), *Histoire du droit privé*, Ellipses, 2018 (2ème éd.).
+- HALPÉRIN (Jean-Louis), *Histoire du droit des biens*, Economica, 2008.
+- HALPÉRIN (Jean-Louis), *Histoire du droit privé français depuis 1804*, PUF, 1996.
+- PATAULT (Anne-Marie), *Introduction historique au droit des biens*, PUF, 1989.
 #### Libéralisme
 - SCHWARTZ (Antoine), *Le libéralisme caméléon. Les libéréaux sous le Second Empire (1848-1870)*, Presses universitaires de Franche-Comté, 2022.
 - ## Contact
