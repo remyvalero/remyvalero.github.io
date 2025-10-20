@@ -15,5 +15,11 @@ Dans une large mesure, la recherche numérique de sources et de renseignements e
 - [**Bibliothèque numérique Cujas**](http://cujasweb.univ-paris1.fr/) — C'est la plateforme numérique de la bibliothèque française universitaire de référence en droit. On y trouve beaucoup d'ouvrages numérisés pour de nombreuses époques. Je l'utilise surtout pour trouver facilement les travaux préparatoires des codes napoléoniens qui ont été compilés par Locré, dans la section "Codes".
 - [**Napoleonica**](https://www.napoleonica.org/fr/) — de la fondation Napoléon. Transcription de nombreuses archives, notamment de correspondances, la collection du Conseil d'État... Avec un outil de recherche par mot-clef qui fonctionne relativement bien.
 - [**Bibliographie numérique d'histoire du droit en langue française**](https://bibliographienumeriquedhistoiredudroit-ifg.univ-lorraine.fr/s/droit/page/welcome) — par Christian Dugas de La Boissonny, François Lormant et al. Toujours utile pour une première recherche bibliographique focalisée sur l'histoire du droit.
+## Bibliographie
+Voici quelques indications bibliographiques qui n'ont absolument aucune visée exhaustive. Elle est classée par ordre thématique. Je n'indique ici que que quelques-uns des livres que j'ai trouvés particulièrement utiles pour certaines de mes recherches.
+#### Génocide
+- Bachman (Jeffrey), *The Politics of Genocide. From the Genocide Convention to the Responsibility to Protect*, Rutgers University Press, 2022.
+- Dirk Moses (Anthony), *The Problems of Genocide. Permanent Security and the Language of Transgression*, Cambridge University Pres, 2021.
+- Irvin-Erickson (Douglas), *Raphaël Lemkin and the Concept of Genocide*, University of Pennsylvania Press, 2017
 - ## Contact
 remy.valero@univ-lyon3.fr
